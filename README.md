@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=AbinashBishoyi)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbinashBishoyi)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbinashBishoyi&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
