@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--![](https://source.unsplash.com/random/800x400?star)-->
 
 ![](https://komarev.com/ghpvc/?username=AbinashBishoyi)
+![Visitor Count](https://profile-counter.glitch.me/{AbinashBishoyi}/count.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbinashBishoyi&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
