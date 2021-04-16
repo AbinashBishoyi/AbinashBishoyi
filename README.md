@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&fontSize=50)
 ### Hi there 👋
 
 <!--
@@ -25,3 +26,5 @@ Here are some ideas to get you started:
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=AbinashBishoyi&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbinashBishoyi&layout=compact" />
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&fontSize=50)
